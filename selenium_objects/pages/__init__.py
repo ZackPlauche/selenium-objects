@@ -1,0 +1,1 @@
+from .pages import Page, FormPage, DetailPage
